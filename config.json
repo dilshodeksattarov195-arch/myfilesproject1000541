@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerdrocess",
+        "uuid": 5155730,
+        "checksum": "vd32n9"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
